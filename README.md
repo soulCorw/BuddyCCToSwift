@@ -1,9 +1,9 @@
 # BuddyCompanion
 
 iOS implementation of the Buddy companion system, ported from Claude Code's source.  
-事件原始仓库：https://github.com/instructkr/claw-code（初版名称instructkr/claude-code）  
-ts源码：https://github.com/jarmuine/claude-code，https://github.com/youmengde/claude-code-snapshot-backup  
-项目分析（中文版）：https://github.com/soulCorw/claude-code-analysis
+事件原始仓库：[instructkr/claw-code](https://github.com/instructkr/claw-code)（初版名称 instructkr/claude-code）  
+ts 源码：[jarmuine/claude-code](https://github.com/jarmuine/claude-code)，[youmengde/claude-code-snapshot-backup](https://github.com/youmengde/claude-code-snapshot-backup)  
+项目分析（中文版）：[soulCorw/claude-code-analysis](https://github.com/soulCorw/claude-code-analysis)
 
 ## Screenshots
 
