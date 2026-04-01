@@ -2,6 +2,12 @@
 
 iOS implementation of the Buddy companion system, ported from Claude Code's source.
 
+## Screenshots
+
+| Companion | Hatch |
+|:---------:|:-----:|
+| ![Companion screen showing an octopus named Squirtle with stats](Screenshots/companion.png) | ![Hatch screen showing a grey egg with "A new companion awaits"](Screenshots/hatch.png) |
+
 ## Project Structure
 
 ```
